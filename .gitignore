@@ -1,0 +1,21 @@
+# Ignore Python virtual environment
+venv4CHATBOT_WITH_GPT2/
+__pycache__/
+
+# Ignore Node.js dependencies
+node_modules/
+
+# Ignore build files
+build/
+dist/
+
+# Ignore environment files
+.env
+
+# Ignore IDE specific files
+.vscode/
+*.log
+
+# Ignore other unnecessary files
+*.sqlite3
+*.db

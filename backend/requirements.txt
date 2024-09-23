@@ -1,0 +1,7 @@
+fastapi==0.95.1
+uvicorn==0.22.0
+SQLAlchemy==2.0.19
+pydantic==2.1.1
+transformers==4.32.0
+torch==2.4.1
+sqlite==3.36.0
